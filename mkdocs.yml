@@ -1,0 +1,9 @@
+site_name: Riley's Website
+site_url: https://bowsers-airship.github.io
+nav:
+    - Home: index.md
+    - Speedruns: 
+        - Resources: speedrun/resources.md
+        - Accomplishments: speedrun/accomplishments.md
+        - History: speedrun/history.md
+    - Links: links.md
