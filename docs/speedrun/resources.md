@@ -20,7 +20,10 @@ This page is designed to aggregate all (current) speedrun resources created by m
 
 I have made several tutorials on The Heist speedrunning.
 
-Full game tutorial (note that this tutorial is a bit outdated):
+Any% and All Floors tutorial:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jXbIfLlqw-Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Full game tutorial (outdated for all categories except Glitchless):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rAcy-TqFLYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Any% tutorial:
