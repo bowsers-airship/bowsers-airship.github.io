@@ -10,7 +10,7 @@ For business inquiries please reach out on Discord at `riley_tech` (preferred) o
 
 - [Discord server](https://discord.gg/9Ewpwyu). If you're interested in interacting with the community (or being notified ahead of time when I stream), you can join the Discord. As with all of my content, please try to keep discussions as civil and family-friendly as possible.
 
-- [Revolt server](https://rvlt.gg/FctxJD0g). You can also interact with the community on Revolt! As with all of my content, please try to keep discussions as civil and family-friendly as possible. 
+- [Matrix server](https://github.com/bowsers-airship/bowsers-airship.github.io.git). You can also interact with the community on element.io. As with all of my content, please try to keep discussions as civil and family-friendly as possible. 
 
 - [Speedrun profile](https://speedrun.com/user/Riley_Tech). You can find the most up-to-date information about my speedruns here.
 
